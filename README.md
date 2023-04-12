@@ -51,16 +51,15 @@
 <div align=center>
   <br>
   <a href="#" title="HuyBean">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean(https://github.com/anuraghazra/github-readme-stats)" />
   </a>
   <a href="#" title="HuyBean">
-    <img align="right" width="434" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&cc=000&tc=fff&ic=fff&bc=000"
+    <img align="right" width="434" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&cc=000&tc=fff&ic=fff&bc=000"/>
 
 <!-- Where cc = Card Color
       tc = Text Color
       ic = Icon Color
       bc = Border Color" -->
-    />
   </a>
 
   <a href="#" title="HuyBean">
