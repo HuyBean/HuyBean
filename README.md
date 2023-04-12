@@ -67,7 +67,7 @@
 <h2 align="center">🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
-    <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover&column=3&margin-w=15&margin-h=15" />
+    <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover&margin-w=15&margin-h=15" />
   </a>
 
 <h2 align="center">👽 Where to find me 👽</h2>
