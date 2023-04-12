@@ -57,7 +57,7 @@
   </a>
   <br>
   <a href="#" title="HuyBean">
-    <img align="" width="500" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react&cc=000&tc=fff&ic=fff&bc=000"/>
+    <img align="" width="400" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react&cc=000&tc=fff&ic=fff&bc=000"/>
 
 <!-- Where cc = Card Color
       tc = Text Color
@@ -69,7 +69,7 @@
   </a>
  <br>
  <a href="#" title="HuyBean">
-    <img align="left" width="460" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
+    <img align="left" width="400" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
     <br>
   </a>
   <br>
