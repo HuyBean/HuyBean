@@ -56,6 +56,10 @@
   <a href="#" title="HuyBean">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HuyBean&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+
+  <a href="#" title="HuyBean">
+    <img align="right" width="434" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark(https://git.io/streak-stats)" />
+  </a>
 </div>
 
 </h2>
