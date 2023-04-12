@@ -6,44 +6,42 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=A8B9CC" alt="c logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="c logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=00599C" alt="cplusplus logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="cplusplus logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/csharp-282C34?logo=csharp&logoColor=239120" alt="csharp logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=239120" alt="csharp logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/latex-282C34?logo=latex&logoColor=008080" alt="latex logo" title="LaTex" height="25" /></span>
+<span><img src="https://img.shields.io/badge/LaTex-282C34?logo=latex&logoColor=008080" alt="latex logo" title="LaTex" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/adobe-282C34?logo=adobe&logoColor=FF0000" alt="adobe logo" title="Adobe" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe-282C34?logo=adobe&logoColor=FF0000" alt="adobe logo" title="Adobe" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/adobephotoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="adobephotoshop logo" title="Adobe Photoshop" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="adobephotoshop logo" title="Adobe Photoshop" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/adobelightroomclassic-282C34?logo=adobelightroomclassic&logoColor=31A8FF" alt="adobelightroomclassic logo" title="Adobe Lightroom Classic" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe Lightroom Classic-282C34?logo=adobelightroomclassic&logoColor=31A8FF" alt="adobelightroomclassic logo" title="Adobe Lightroom Classic" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/adobeillustrator-282C34?logo=adobeillustrator&logoColor=FF9A00" alt="adobeillustrator logo" title="Adobe Illustrator" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe Illustrator-282C34?logo=adobeillustrator&logoColor=FF9A00" alt="adobeillustrator logo" title="Adobe Illustrator" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/adobepremierepro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="adobepremierepro logo" title="Adobe Premiere Pro" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe Premiere Pro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="adobepremierepro logo" title="Adobe Premiere Pro" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/canva-282C34?logo=canva&logoColor=008080" alt="canva logo" title="Canva" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=008080" alt="canva logo" title="Canva" height="25" /></span>
 &nbsp;
 
-<span><img src="https://img.shields.io/badge/google-282C34?logo=Google&logoColor=4285F4" alt="Google logo" title="Google" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Google-282C34?logo=Google&logoColor=4285F4" alt="Google logo" title="Google" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" /></span>
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/microsoft-282C34?logo=microsoft&logoColor=5E5E5E" alt="microsoft logo" title="Microsoft" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft-282C34?logo=microsoft&logoColor=5E5E5E" alt="microsoft logo" title="Microsoft" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/visualstudiocode-282C34?logo=visualstudiocode&logoColor=007ACC" alt=" logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt=" logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/visualstudio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="Visual Studio" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
 
 <br>
