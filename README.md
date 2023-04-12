@@ -54,7 +54,7 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
   </a>
   <a href="#" title="HuyBean">
-    <img align="right" width="434" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react"/>
+    <img align="right" width="434" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react&cc=000&tc=fff&ic=fff&bc=000"/>
 
 <!-- Where cc = Card Color
       tc = Text Color
