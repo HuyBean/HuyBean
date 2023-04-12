@@ -101,7 +101,7 @@
 <br>
 <a href="#" target="_blank">
   <a href="#" title="HuyBean">
-    <img align="center" width="434" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
+    <img align="center" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
   </a>
 </a>
 
