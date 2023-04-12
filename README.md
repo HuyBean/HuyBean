@@ -51,7 +51,7 @@
 <div align=center>
   <br>
   <a href="#" title="HuyBean">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean(https://github.com/anuraghazra/github-readme-stats)" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean" />
   </a>
   <a href="#" title="HuyBean">
     <img align="right" width="434" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&cc=000&tc=fff&ic=fff&bc=000"/>
