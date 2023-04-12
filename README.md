@@ -45,14 +45,22 @@
 &nbsp;
 <br>
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="9000" height="600" />
-<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 <h2 align="left">🔥 GitHub Stats 🔥 </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <div align=center>
   <br>
   <a href="#" title="HuyBean">
-    <img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
+    <img width="400" hight="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
   </a>
   <br>
   <a href="#" title="HuyBean">
@@ -65,13 +73,11 @@
   </a>
  <br>
  <a href="#" title="HuyBean">
-    <img align="left" width="400" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
+    <img align="" width="400" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
     <br>
   </a>
   <br>
 </div>
-<br><br>
-<br><br>
 
 <h2 align="left"><br>🏆GitHub Trophies </h2>
 <br>
