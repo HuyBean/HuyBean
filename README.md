@@ -67,29 +67,8 @@
 <h2 align="center">🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
-    <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover&margin-w=15&margin-h=15" />
+    <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=HuyBean&theme=dark_lover&margin-w=15&margin-h=15" />
   </a>
-
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/huybean2003" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HuyBean-facebook" />
-  </a>
-  <a href="https://www.youtube.com/@huynguyenquoc3144" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="HuyBean-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/huybean2003/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="HuyBean-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/huybeantimnguoiiu/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HuyBean-instagram" />
-  </a>
-  <a href="mailto:nqhuy0711@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
-</div>
 
 <br>
 
@@ -126,4 +105,27 @@
     <img align="right" width="434" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
   </a>
 </a>
+
+<br> 
+
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/huybean2003" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HuyBean-facebook" />
+  </a>
+  <a href="https://www.youtube.com/@huynguyenquoc3144" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="HuyBean-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/huybean2003/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="HuyBean-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/huybeantimnguoiiu/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HuyBean-instagram" />
+  </a>
+  <a href="mailto:nqhuy0711@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
+</div>
 
