@@ -51,7 +51,7 @@
 <div align=center>
   <br>
   <a href="#" title="HuyBean">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
+    <img width="315" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
   </a>
   <br>
   <a href="#" title="HuyBean">
@@ -71,9 +71,8 @@
     <img align="left" width="400" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
   </a>
 </div>
-<br>
-<br>
 </h2>
+<br>
 <h2 align="left">🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
