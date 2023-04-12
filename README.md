@@ -58,7 +58,7 @@
   </a>
 
   <a href="#" title="HuyBean">
-    <img align="right" width="434" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark(https://git.io/streak-stats)" />
+    <img align="right" width="434" src="https://streak-stats.demolab.com/?user=HuyBean&theme=dark(https://git.io/streak-stats)" />
   </a>
 </div>
 
