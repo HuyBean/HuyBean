@@ -73,6 +73,7 @@
 </div>
 </h2>
 <br>
+</br>
 <h2 align="left">🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
