@@ -61,7 +61,6 @@
 </div>
 </h2>
 <br>
-<br>
 <h2 align="center">🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
@@ -74,14 +73,14 @@
 <br>
 <p>
   <a href="https://www.facebook.com/MuaHeXanh.KhoaHocTuNhien" target="_blank">
-    <strong>☕ Content Creator tại Ban Truyền Thông M.A.T - Trường ĐH KHTN</strong>
+    <strong>🔗 Content Creator tại Ban Truyền Thông M.A.T - Trường ĐH KHTN</strong>
   </a>
 </p>
 <p><strong>☕ Thành viên Ban Truyền Thông M.A.T từ năm 2022 với nhiệm vụ sáng tạo nội dung của các hoạt động truyền thông, sự kiện tác nghiệp của trường. Có thể kể đến một số sự kiện chính như: Festival, Mùa Hè Xanh, Ngày Hội Sinh viên và Doanh nghiệp, ...</strong></p>
 <br>
 <p>
   <a href="https://www.facebook.com/design.itus" target="_blank">
-    <strong>☕ Content Creator tại DesignITUS - FIT - HCMUS</strong>
+    <strong>🔗 Content Creator tại DesignITUS - FIT - HCMUS</strong>
   </a>
 </p>
 <p><strong>☕ Thành viên CLB DesignITUS từ năm 2022 với nhiệm vụ sáng tạo nội dung cho các hoạt động truyền thông, của khoa Công Nghệ Thông Tin và của CLB. Có thể kể đến một số sự kiện và nhiệm vụ chính như: Outr Space, Event Manager, Copy Writer, ...</strong></p>
@@ -100,7 +99,7 @@
 <br>
 <a href="#" target="_blank">
   <a href="#" title="HuyBean">
-    <img align="right" width="434" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
+    <img align="center" width="434" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
   </a>
 </a>
 
@@ -123,7 +122,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HuyBean-instagram" />
   </a>
   <a href="mailto:nqhuy0711@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HuyBean-email" />
   </a>
 </div>
 
