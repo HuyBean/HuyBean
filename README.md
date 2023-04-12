@@ -31,7 +31,7 @@
 <span><img src="https://img.shields.io/badge/canva-282C34?logo=canva&logoColor=008080" alt="canva logo" title="Canva" height="25" /></span>
 &nbsp;
 
-<span><img src="https://img.shields.io/badge/google-282C34?logo=google&logoColor=4285F4" alt="Google logo" title="Google" height="25" /></span>
+<span><img src="https://img.shields.io/badge/google-282C34?logo=Google&logoColor=4285F4" alt="Google logo" title="Google" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" /></span>
 &nbsp;
