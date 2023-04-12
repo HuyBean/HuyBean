@@ -51,11 +51,11 @@
 <div align=center>
   <br>
   <a href="#" title="HuyBean">
-    <img width="315" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
+    <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
   </a>
   <br>
   <a href="#" title="HuyBean">
-    <img align="" width="400" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react&cc=000&tc=fff&ic=fff&bc=000"/>
+    <img align="" width="500" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react&cc=000&tc=fff&ic=fff&bc=000"/>
 
 <!-- Where cc = Card Color
       tc = Text Color
@@ -64,7 +64,7 @@
   </a>
     <br>
  <a href="#" title="HuyBean">
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
   </a>
  <br>
  <a href="#" title="HuyBean">
@@ -73,8 +73,12 @@
   </a>
   <br>
 </div>
-
-<h2 align="center">🏆GitHub Trophies </h2>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<h2 align="left"><br>🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
     <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=HuyBean&theme=dark_lover&margin-w=15&margin-h=15" />
