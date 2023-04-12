@@ -62,7 +62,7 @@
       bc = Border Color" -->
   </a>
 <br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
   <a href="#" title="HuyBean">
     <img align="left" width="434" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
   </a>
