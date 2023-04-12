@@ -45,7 +45,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥
+<h2 align="left">🔥 GitHub Stats 🔥
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -58,12 +58,12 @@
   </a>
 
   <a href="#" title="HuyBean">
-    <img align="right" width="434" src="https://streak-stats.demolab.com/?user=HuyBean&theme=react(https://git.io/streak-stats)" />
+    <img align="center" width="434" src="https://streak-stats.demolab.com/?user=HuyBean&theme=react(https://git.io/streak-stats)" />
   </a>
 </div>
 <br>
 </h2>
-<h2 align="center">🏆GitHub Trophies </h2>
+<h2 align="left">🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
     <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=HuyBean&theme=dark_lover&margin-w=15&margin-h=15" />
