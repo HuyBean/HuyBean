@@ -99,9 +99,9 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-  <a href="#" title="HuyBean">
-    <img align="center" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
-  </a>
+<a href="#" target="_blank">
+  <img src="svg/huybean-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+</a>
 
 <br> 
 
