@@ -47,7 +47,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 GitHub Stats 🔥
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -61,7 +61,7 @@
     <img align="right" width="434" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" />
   </a>
 </div>
-
+</h2>
 <br>
 <h2 align="center">🏆GitHub Trophies
   <a href="#" title="HuyBean">
