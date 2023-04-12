@@ -43,9 +43,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
-<br>
+<a>
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="9000" height="600" />
-<br><br>
+</a><br>
 <br><br>
 <br><br>
 <br><br>
@@ -56,9 +56,8 @@
 <br><br><br><br>
 <h2 align="center">🔥 GitHub Stats 🔥 </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<div align=center>
   <br>
+<div align=center>
   <a href="#" title="HuyBean">
     <img width="400" hight="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
   </a>
