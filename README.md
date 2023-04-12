@@ -45,6 +45,8 @@
 &nbsp;
 
 <br>
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
 <h2 align="left">🔥 GitHub Stats 🔥 </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -64,7 +66,6 @@
   </a>
     <br>
  <a href="#" title="HuyBean">
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
   </a>
  <br>
  <a href="#" title="HuyBean">
@@ -75,9 +76,7 @@
 </div>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
-<br><br>
+
 <h2 align="left"><br>🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
