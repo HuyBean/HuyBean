@@ -53,7 +53,7 @@
 <div align=center>
   <br>
   <a href="#" title="HuyBean">
-    <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
+    <img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
   </a>
   <br>
   <a href="#" title="HuyBean">
@@ -63,9 +63,6 @@
       tc = Text Color
       ic = Icon Color
       bc = Border Color" -->
-  </a>
-    <br>
- <a href="#" title="HuyBean">
   </a>
  <br>
  <a href="#" title="HuyBean">
