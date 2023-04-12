@@ -1,16 +1,128 @@
-### Hi there 👋
+<!-- Trungquandev -->
+<a href="#" target="_blank">
+  <img src="svg/huybean.svg" width="1200" alt="HuyBean-official" />
+</a>
 
-<!--
-**HuyBean/HuyBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=A8B9CC" alt="c logo" title="C" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=00599C" alt="cplusplus logo" title="C++" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/csharp-282C34?logo=csharp&logoColor=239120" alt="csharp logo" title="C#" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/latex-282C34?logo=latex&logoColor=008080" alt="latex logo" title="LaTex" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/adobe-282C34?logo=adobe&logoColor=FF0000" alt="adobe logo" title="Adobe" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/adobephotoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="adobephotoshop logo" title="Adobe Photoshop" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/adobelightroomclassic-282C34?logo=adobelightroomclassic&logoColor=31A8FF" alt="adobelightroomclassic logo" title="Adobe Lightroom Classic" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/adobeillustrator-282C34?logo=adobeillustrator&logoColor=FF9A00" alt="adobeillustrator logo" title="Adobe Illustrator" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/adobepremierepro-282C34?logo=adobepremierepro&logoColor=9999FF" alt="adobepremierepro logo" title="Adobe Premiere Pro" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/canva-282C34?logo=canva&logoColor=008080" alt="canva logo" title="Canva" height="25" /></span>
+&nbsp;
 
-Here are some ideas to get you started:
+<span><img src="https://img.shields.io/badge/google-282C34?logo=google&logoColor=4285F4" alt="google logo" title="Google" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="github logo" title="GitHub" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/microsoft-282C34?logo=microsoft&logoColor=5E5E5E" alt="microsoft logo" title="Microsoft" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/visualstudiocode-282C34?logo=visualstudiocode&logoColor=007ACC" alt=" logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/visualstudio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="Visual Studio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="HuyBean">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HuyBean&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="HuyBean">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="HuyBean">
+    <img align="right" width="434" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" />
+  </a>
+</div>
+
+<br>
+<h2 align="center">🏆GitHub Trophies
+  <a href="#" title="HuyBean">
+    <img align="right" width="434" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover&column=3&margin-w=15&margin-h=15" />
+  </a>
+</h2>
+
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/huybean2003" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HuyBean-facebook" />
+  </a>
+  <a href="https://www.youtube.com/@huynguyenquoc3144" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="HuyBean-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/huybean2003/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="HuyBean-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/huybeantimnguoiiu/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HuyBean-instagram" />
+  </a>
+  <a href="mailto:nqhuy0711@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">📖 Something about me 📖</h2>
+<br>
+<p>
+  <a href="https://www.facebook.com/MuaHeXanh.KhoaHocTuNhien" target="_blank">
+    <strong>☕ Content Creator tại Ban Truyền Thông M.A.T - Trường ĐH KHTN</strong>
+  </a>
+</p>
+<p><strong>☕ Thành viên Ban Truyền Thông M.A.T từ năm 2022 với nhiệm vụ sáng tạo nội dung của các hoạt động truyền thông, sự kiện tác nghiệp của trường. Có thể kể đến một số sự kiện chính như: Festival, Mùa Hè Xanh, Ngày Hội Sinh viên và Doanh nghiệp, ...</strong></p>
+<br>
+<p>
+  <a href="https://www.facebook.com/design.itus" target="_blank">
+    <strong>☕ Content Creator tại DesignITUS - FIT - HCMUS</strong>
+  </a>
+</p>
+<p><strong>☕ Thành viên CLB DesignITUS từ năm 2022 với nhiệm vụ sáng tạo nội dung cho các hoạt động truyền thông, của khoa Công Nghệ Thông Tin và của CLB. Có thể kể đến một số sự kiện và nhiệm vụ chính như: Outr Space, Event Manager, Copy Writer, ...</strong></p>
+
+  <br>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="facebook.com/huybean2003" target="_blank">https://www.facebook.com/huybean2003</a></strong>
+  <br>
+  <strong>📧 Hoặc Email: <a href="mailto:nqhuy0711.official@gmail.com" target="_top">nqhuy0711.official@gmail.com</a></strong>
+</p>
+<a href="https://www.linkedin.com/in/huybean2003/">
+  <img src="images/CaZone.jpg" width="1200" alt="HuyBean2003" />
+</a>
+
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <a href="#" title="HuyBean">
+    <img align="right" width="434" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
+  </a>
+</a>
+
