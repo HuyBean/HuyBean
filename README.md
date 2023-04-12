@@ -3,7 +3,7 @@
   <img src="svg/huybean.svg" width="1200" alt="HuyBean-official" />
 </a>
 
-<h2 align="left">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="c logo" title="C" height="25" /></span>
@@ -53,8 +53,8 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<h2 align="left">🔥 GitHub Stats 🔥 </h2>
+<br><br><br><br>
+<h2 align="center">🔥 GitHub Stats 🔥 </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <div align=center>
@@ -79,7 +79,7 @@
   <br>
 </div>
 
-<h2 align="left"><br>🏆GitHub Trophies </h2>
+<h2 align="center"><br>🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
     <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=HuyBean&theme=dark_lover&margin-w=15&margin-h=15" />
