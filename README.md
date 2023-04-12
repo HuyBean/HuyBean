@@ -99,11 +99,9 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
   <a href="#" title="HuyBean">
     <img align="center" src="https://github.com/piyushsuthar/github-readme-quotes?theme=dark" />
   </a>
-</a>
 
 <br> 
 
