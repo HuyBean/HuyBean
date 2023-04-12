@@ -45,7 +45,7 @@
 &nbsp;
 
 <br>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="9000" height="600" />
 <br>
 <h2 align="left">🔥 GitHub Stats 🔥 </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
