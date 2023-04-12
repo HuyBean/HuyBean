@@ -43,10 +43,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Visual Studio-282C34?logo=visualstudio&logoColor=5C2D91" alt="visualstudio logo" title="Visual Studio" height="25" /></span>
 &nbsp;
-<a>
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="600" />
-</a>
 <br>
+<a>
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1200" height="500" />
+</a>
+
+<br><br><br>
 <h2 align="center">🔥 GitHub Stats 🔥 </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   <br>
