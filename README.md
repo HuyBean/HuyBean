@@ -3,7 +3,7 @@
   <img src="svg/huybean.svg" width="1200" alt="HuyBean-official" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="left">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="c logo" title="C" height="25" /></span>
