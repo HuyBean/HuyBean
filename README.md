@@ -45,9 +45,9 @@
 &nbsp;
 
 <br>
-<h2 align="left">🔥 GitHub Stats 🔥
+<h2 align="left">🔥 GitHub Stats 🔥 </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+
 <div align=center>
   <br>
   <a href="#" title="HuyBean">
@@ -55,7 +55,7 @@
   </a>
   <br>
   <a href="#" title="HuyBean">
-    <img align="left" width="400" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react&cc=000&tc=fff&ic=fff&bc=000"/>
+    <img align="" width="400" src="https://github-stats-alpha.vercel.app/api?username=HuyBean&theme=react&cc=000&tc=fff&ic=fff&bc=000"/>
 
 <!-- Where cc = Card Color
       tc = Text Color
@@ -64,17 +64,17 @@
   </a>
     <br>
  <a href="#" title="HuyBean">
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   </a>
-    <br>
+ <br>
  <a href="#" title="HuyBean">
-    <img align="left" width="400" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
+    <img align="left" width="460" src="https://streak-stats.demolab.com?user=HuyBean&theme=black-ice" />
+    <br>
   </a>
+  <br>
 </div>
-</h2>
-<br>
-</br>
-<h2 align="left">🏆GitHub Trophies </h2>
+
+<h2 align="center">🏆GitHub Trophies </h2>
 <br>
   <a href="#" title="HuyBean">
     <img align="center" width="" src="https://github-profile-trophy.vercel.app/?username=HuyBean&theme=dark_lover&margin-w=15&margin-h=15" />
