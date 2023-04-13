@@ -100,7 +100,7 @@
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="facebook.com/huybean2003" target="_blank">https://www.facebook.com/huybean2003</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:nqhuy0711@gmail.com" target="_top">nqhuy0711.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:nqhuy0711@gmail.com" target="_top">nqhuy0711@gmail.com</a></strong>
 </p>
 <a href="https://www.linkedin.com/in/huybean2003/">
   <img src="images/CaZone.jpg" width="1200" alt="HuyBean2003" />
