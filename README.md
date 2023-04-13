@@ -54,7 +54,7 @@
   <br>
 <div align=center>
   <a href="#" title="HuyBean">
-    <img width="400" hight="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=react" />
+    <img width="400" hight="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=dark" />
   </a>
   <br>
   <a href="#" title="HuyBean">
