@@ -98,7 +98,7 @@
 <p><strong>☕ Thành viên CLB DesignITUS từ năm 2022 với nhiệm vụ sáng tạo nội dung cho các hoạt động truyền thông, của khoa Công Nghệ Thông Tin và của CLB. Có thể kể đến một số sự kiện và nhiệm vụ chính như: Outr Space, Event Manager, Copy Writer, ...</strong></p>
 
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="facebook.com/huybean2003" target="_blank">https://www.facebook.com/huybean2003</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/huybean2003" target="_blank">facebook.com/huybean2003</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:nqhuy0711@gmail.com" target="_top">nqhuy0711@gmail.com</a></strong>
 </p>
