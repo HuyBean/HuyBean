@@ -15,7 +15,7 @@
 <br><br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HuyBean&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HuyBean&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HuyBean&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyBean&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -24,7 +24,7 @@
   </a>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 <h2 align="center">📖 Something about me 📖</h2>
 <br>
@@ -52,12 +52,11 @@
 </a>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/huybean-quotes.svg" width="846" height="150" alt="HuyBean-official" />
-</a>
+<h2 align="center">📑 My Favorites Quote 📑
+<br><br>
 
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</h2>
 <br> 
 
 <h2 align="center">👽 Where to find me 👽</h2>
